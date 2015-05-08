@@ -1,0 +1,19 @@
+{
+  "name": "splitweet",
+  "version": "0.1.0",
+  "description": "A small library for splitting text into tweet size chucks, spliting on spaces and adding ellipsis or any other delimiter",
+  "main": "main.js",
+  "scripts": {
+     "test": "make test"
+  },
+  "keywords": [
+    "twitter",
+    "split"
+  ],
+  "author": "Shawn Zamechek <shawn@zamechek.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
