@@ -3,6 +3,10 @@
   "version": "0.1.4",
   "description": "A small library for splitting text into tweet size chucks, spliting on spaces and adding ellipsis or any other delimiter",
   "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shawnzam/splitweet.git"
+  },
   "scripts": {
      "test": "make test"
   },
